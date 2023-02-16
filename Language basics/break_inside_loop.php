@@ -1,0 +1,9 @@
+<?php
+for($i=0;$i<=120;$i++)
+{
+    echo"$i".PHP_EOL;
+    if($i==110){
+        break;
+    }
+}
+?>
